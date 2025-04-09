@@ -21,7 +21,7 @@
 # a test, etc.
 #
 # Description: A short description of the changes made, written in imperative
-# mood ("add", not "adds/added"), not capitalised, no period (.) at the end.
+# mood ("add", not "adds/added"), capitalised, no period (.) at the end.
 #
 # Body (optional): A more detailed description of the changes, including the
 # motivation for the changes and the trade-offs considered.
